@@ -1,0 +1,1 @@
+1. mysql 可以通过 set session transaction isolation level read commited 设置事务的隔离级别
